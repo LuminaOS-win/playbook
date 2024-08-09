@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="200" src="https://raw.githubusercontent.com/LuminaOS-win/.github/main/lumina-full-transparent.png"  />
+  <img height="190" src="https://raw.githubusercontent.com/LuminaOS-win/.github/main/lumina-full-transparent.png"  />
 </div>
 
 # LuminaOS playbook
